@@ -10,8 +10,6 @@
 - A platform to make your coding experience better.
 - Category wise contest of codeforces
 - Track your live progress
-- A special section designed for MNIT college
-- Auto updation of leaderboard
 
 ## Technologies :-
 
